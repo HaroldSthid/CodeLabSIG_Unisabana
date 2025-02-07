@@ -51,3 +51,5 @@ Este código te permite transformar una imagen en un archivo de Excel, donde cad
 ```python
 from google.colab import drive
 drive.mount('/content/drive')
+
+##Continua los otros Pasos ''Steps'' desde el codigo de Python que este en este mismo Repo
